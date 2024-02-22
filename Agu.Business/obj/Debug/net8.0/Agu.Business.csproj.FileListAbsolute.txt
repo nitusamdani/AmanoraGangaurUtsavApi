@@ -1,0 +1,52 @@
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Business\obj\Debug\net8.0\Agu.Business.csproj.AssemblyReference.cache
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Business\obj\Debug\net8.0\Agu.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Business\obj\Debug\net8.0\Agu.Business.AssemblyInfoInputs.cache
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Business\obj\Debug\net8.0\Agu.Business.AssemblyInfo.cs
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Business\obj\Debug\net8.0\Agu.Business.csproj.CoreCompileInputs.cache
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Business\bin\Debug\net8.0\Agu.Business.deps.json
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Business\bin\Debug\net8.0\Agu.Business.dll
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Business\bin\Debug\net8.0\Agu.Business.pdb
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Business\bin\Debug\net8.0\Agu.Domain.dll
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Business\bin\Debug\net8.0\Agu.Interface.dll
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Business\bin\Debug\net8.0\Agu.Interface.pdb
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Business\bin\Debug\net8.0\Agu.Domain.pdb
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Business\obj\Debug\net8.0\Agu.Business.csproj.CopyComplete
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Business\obj\Debug\net8.0\Agu.Business.dll
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Business\obj\Debug\net8.0\refint\Agu.Business.dll
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Business\obj\Debug\net8.0\Agu.Business.pdb
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Business\obj\Debug\net8.0\ref\Agu.Business.dll
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Business\bin\Debug\net8.0\Agu.Business.deps.json
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Business\bin\Debug\net8.0\Agu.Business.dll
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Business\bin\Debug\net8.0\Agu.Business.pdb
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Business\bin\Debug\net8.0\Agu.Domain.dll
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Business\bin\Debug\net8.0\Agu.Interface.dll
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Business\bin\Debug\net8.0\Agu.Interface.pdb
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Business\bin\Debug\net8.0\Agu.Domain.pdb
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Business\obj\Debug\net8.0\Agu.Business.csproj.AssemblyReference.cache
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Business\obj\Debug\net8.0\Agu.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Business\obj\Debug\net8.0\Agu.Business.AssemblyInfoInputs.cache
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Business\obj\Debug\net8.0\Agu.Business.AssemblyInfo.cs
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Business\obj\Debug\net8.0\Agu.Business.csproj.CoreCompileInputs.cache
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Business\obj\Debug\net8.0\Agu.Busi.D0853BC7.Up2Date
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Business\obj\Debug\net8.0\Agu.Business.dll
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Business\obj\Debug\net8.0\refint\Agu.Business.dll
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Business\obj\Debug\net8.0\Agu.Business.pdb
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Business\obj\Debug\net8.0\ref\Agu.Business.dll
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Business\bin\Debug\net8.0\Agu.Business.deps.json
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Business\bin\Debug\net8.0\Agu.Business.dll
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Business\bin\Debug\net8.0\Agu.Business.pdb
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Business\bin\Debug\net8.0\Agu.Domain.dll
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Business\bin\Debug\net8.0\Agu.Interface.dll
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Business\bin\Debug\net8.0\Agu.Interface.pdb
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Business\bin\Debug\net8.0\Agu.Domain.pdb
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Business\obj\Debug\net8.0\Agu.Business.csproj.AssemblyReference.cache
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Business\obj\Debug\net8.0\Agu.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Business\obj\Debug\net8.0\Agu.Business.AssemblyInfoInputs.cache
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Business\obj\Debug\net8.0\Agu.Business.AssemblyInfo.cs
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Business\obj\Debug\net8.0\Agu.Business.csproj.CoreCompileInputs.cache
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Business\obj\Debug\net8.0\Agu.Business.sourcelink.json
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Business\obj\Debug\net8.0\Agu.Busi.D0853BC7.Up2Date
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Business\obj\Debug\net8.0\Agu.Business.dll
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Business\obj\Debug\net8.0\refint\Agu.Business.dll
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Business\obj\Debug\net8.0\Agu.Business.pdb
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Business\obj\Debug\net8.0\ref\Agu.Business.dll

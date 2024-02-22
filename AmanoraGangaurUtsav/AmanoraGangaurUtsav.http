@@ -1,0 +1,6 @@
+@AmanoraGangaurUtsav_HostAddress = http://localhost:5296
+
+GET {{AmanoraGangaurUtsav_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

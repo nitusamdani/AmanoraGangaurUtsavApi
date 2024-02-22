@@ -1,0 +1,46 @@
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Interface\bin\Debug\net8.0\Agu.Interface.deps.json
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Interface\bin\Debug\net8.0\Agu.Interface.dll
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Interface\bin\Debug\net8.0\Agu.Interface.pdb
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Interface\bin\Debug\net8.0\Agu.Domain.dll
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Interface\bin\Debug\net8.0\Agu.Domain.pdb
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Interface\obj\Debug\net8.0\Agu.Interface.csproj.AssemblyReference.cache
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Interface\obj\Debug\net8.0\Agu.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Interface\obj\Debug\net8.0\Agu.Interface.AssemblyInfoInputs.cache
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Interface\obj\Debug\net8.0\Agu.Interface.AssemblyInfo.cs
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Interface\obj\Debug\net8.0\Agu.Interface.csproj.CoreCompileInputs.cache
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Interface\obj\Debug\net8.0\Agu.Interface.csproj.CopyComplete
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Interface\obj\Debug\net8.0\Agu.Interface.dll
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Interface\obj\Debug\net8.0\refint\Agu.Interface.dll
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Interface\obj\Debug\net8.0\Agu.Interface.pdb
+C:\Users\goldy\source\repos\AmanoraWebApi\Agu.Interface\obj\Debug\net8.0\ref\Agu.Interface.dll
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Interface\bin\Debug\net8.0\Agu.Interface.deps.json
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Interface\bin\Debug\net8.0\Agu.Interface.dll
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Interface\bin\Debug\net8.0\Agu.Interface.pdb
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Interface\bin\Debug\net8.0\Agu.Domain.dll
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Interface\bin\Debug\net8.0\Agu.Domain.pdb
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Interface\obj\Debug\net8.0\Agu.Interface.csproj.AssemblyReference.cache
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Interface\obj\Debug\net8.0\Agu.Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Interface\obj\Debug\net8.0\Agu.Interface.AssemblyInfoInputs.cache
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Interface\obj\Debug\net8.0\Agu.Interface.AssemblyInfo.cs
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Interface\obj\Debug\net8.0\Agu.Interface.csproj.CoreCompileInputs.cache
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Interface\obj\Debug\net8.0\Agu.Inte.6017C19F.Up2Date
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Interface\obj\Debug\net8.0\Agu.Interface.dll
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Interface\obj\Debug\net8.0\refint\Agu.Interface.dll
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Interface\obj\Debug\net8.0\Agu.Interface.pdb
+E:\DiineshKumar\AmanoraGangaurUtsav\AmanoraWebApi 1\AmanoraWebApi\Agu.Interface\obj\Debug\net8.0\ref\Agu.Interface.dll
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Interface\bin\Debug\net8.0\Agu.Interface.deps.json
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Interface\bin\Debug\net8.0\Agu.Interface.dll
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Interface\bin\Debug\net8.0\Agu.Interface.pdb
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Interface\bin\Debug\net8.0\Agu.Domain.dll
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Interface\bin\Debug\net8.0\Agu.Domain.pdb
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Interface\obj\Debug\net8.0\Agu.Interface.csproj.AssemblyReference.cache
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Interface\obj\Debug\net8.0\Agu.Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Interface\obj\Debug\net8.0\Agu.Interface.AssemblyInfoInputs.cache
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Interface\obj\Debug\net8.0\Agu.Interface.AssemblyInfo.cs
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Interface\obj\Debug\net8.0\Agu.Interface.csproj.CoreCompileInputs.cache
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Interface\obj\Debug\net8.0\Agu.Interface.sourcelink.json
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Interface\obj\Debug\net8.0\Agu.Inte.6017C19F.Up2Date
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Interface\obj\Debug\net8.0\Agu.Interface.dll
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Interface\obj\Debug\net8.0\refint\Agu.Interface.dll
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Interface\obj\Debug\net8.0\Agu.Interface.pdb
+E:\DiineshKumar\AmanoraGangaurUtsav\Repos\AmanoraGangaurUtsavApi\Agu.Interface\obj\Debug\net8.0\ref\Agu.Interface.dll
