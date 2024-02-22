@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Agu.Interface.Business
 {
-    public interface IUserManger
+    public interface IUserManager
     {
         void AddDefaultUser(User user);
         List<UserDTO> GetUserList();

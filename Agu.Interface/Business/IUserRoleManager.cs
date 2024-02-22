@@ -7,8 +7,10 @@ using System.Threading.Tasks;
 
 namespace Agu.Interface.Business
 {
-    public interface IUserRoleManger
+    public interface IUserRoleManager
     {
         void AddDefaultUserRole();
+        List<UserRoleDTO> GetRoleList();
+        ResponseDTO AddUserRole(UserRoleDTO userRoleDTO);
     }
 }

@@ -7,6 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Agu.Interface.Repository;
 using Microsoft.AspNetCore.Identity;
 using Agu.Domain.Core;
+using Microsoft.AspNetCore.Mvc;
 
 public class Program
 {
@@ -31,6 +32,11 @@ public class Program
 
         builder.Services.AddControllers();
 
+        // Disable API automatic model state validation.
+        builder.Services.Configure<ApiBehaviorOptions>(options =>
+        {
+            options.SuppressModelStateInvalidFilter = true;
+        });
         builder.Services.AddDbContext<AgDbContext>(options => options.UseSqlServer
          (builder.Configuration.GetConnectionString("DefaultConnection")));
         Program.ConfigureModules(builder);
@@ -42,11 +48,11 @@ public class Program
         var app = builder.Build();
         using (var scope = app.Services.CreateScope())
         {
-            var userRoleManager = scope.ServiceProvider.GetRequiredService<IUserRoleManger>;
+            var userRoleManager = scope.ServiceProvider.GetRequiredService<IUserRoleManager>;
 
             Program.CreateSuperAdminRole(userRoleManager.Invoke());
 
-            var userManager = scope.ServiceProvider.GetRequiredService<IUserManger>;
+            var userManager = scope.ServiceProvider.GetRequiredService<IUserManager>;
 
             Program.CreateSuperAdminUser(userManager.Invoke());
         }
@@ -73,15 +79,15 @@ public class Program
     private static void ConfigureModules(WebApplicationBuilder builder)
     {
         builder.Services.AddScoped<IAgDbContext, AgDbContext>();
-        builder.Services.AddScoped<IUserRoleManger, UserRoleManager>();
-        builder.Services.AddScoped<IUserManger, UserManager>();
+        builder.Services.AddScoped<IUserRoleManager, UserRoleManager>();
+        builder.Services.AddScoped<IUserManager, UserManager>();
     }
-    private static void CreateSuperAdminRole(IUserRoleManger userRole)
+    private static void CreateSuperAdminRole(IUserRoleManager userRole)
     {
        
         userRole.AddDefaultUserRole();
     }
-    private static void CreateSuperAdminUser(IUserManger user)
+    private static void CreateSuperAdminUser(IUserManager user)
     {
         var superAdminUser = new User
         {

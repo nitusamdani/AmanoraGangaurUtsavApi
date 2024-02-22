@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Agu.Business
 {
-    public class UserManager : IUserManger
+    public class UserManager : IUserManager
     {
         private IAgDbContext _agDbContext;
 

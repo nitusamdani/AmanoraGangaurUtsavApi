@@ -8,21 +8,21 @@ namespace AmanoraGangaurUtsav.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class UserController :  ControllerBase
+    public class UserController : ControllerBase
     {
-        private IUserManger _userManeger;
-    public UserController(IUserManger userManeger)
-    {
-            _userManeger = userManeger;
-    }
-
-    [HttpGet]
-    public ActionResult GetUsers()
+        private IUserManager _userManager;
+        public UserController(IUserManager userManager)
         {
-        List<UserDTO> list = _userManeger.GetUserList();
+            _userManager = userManager;
+        }
+
+        [HttpGet]
+        public ActionResult GetUsers()
+        {
+            List<UserDTO> list = _userManager.GetUserList();
 
 
-        return Ok(list);
+            return Ok(list);
+        }
     }
-}
 }
