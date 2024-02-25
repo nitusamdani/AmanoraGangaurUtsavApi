@@ -14,6 +14,9 @@ namespace Agu.Interface.Repository
         DbSet<UserRole> UserRoles { set; get; }
 
         DbSet<User> Users { set; get; }
+
+        DbSet<Permission> Permissions { get; set; }
+        DbSet<RolePermission> RolePermissions { get; set; }
         int SaveChanges();
     }
 }

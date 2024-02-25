@@ -67,14 +67,14 @@ namespace Agu.Business
                     if (result > 0)
                     {
                         responseDTO.Status = true;
-                        responseDTO.StatusCode=(int)System.Net.HttpStatusCode.OK;
+                        responseDTO.StatusCode = (int)System.Net.HttpStatusCode.OK;
                         responseDTO.StatusMessage = string.Format("Role '{0}' Added successfully", userRoleDTO.Name);
                     }
                     else
                     {
                         responseDTO.StatusCode = (int)System.Net.HttpStatusCode.OK;
                         responseDTO.Status = false;
-                        responseDTO.StatusMessage = string.Format("Role '{0}' Added successfully", userRoleDTO.Name);
+                        responseDTO.StatusMessage = string.Format("Something went wrong. Role '{0}' not Added", userRoleDTO.Name);
                     }
                 }
                 else
@@ -90,6 +90,59 @@ namespace Agu.Business
                 responseDTO.StatusCode = (int)System.Net.HttpStatusCode.InternalServerError;
                 responseDTO.Status = false;
                 responseDTO.StatusMessage = string.Format("An exception occurred while adding user role {0}", ex.Message);
+            }
+            return responseDTO;
+        }
+
+        public ResponseDTO EditUserRole(UserRoleDTO userRoleDTO)
+        {
+            ResponseDTO responseDTO = new ResponseDTO();
+            try
+            {
+                var role = _agDbContext.UserRoles.Where(x => x.Id == userRoleDTO.Id).FirstOrDefault();
+                if (role == null)
+                {
+                    responseDTO.StatusCode = (int)System.Net.HttpStatusCode.NotFound;
+                    responseDTO.Status = false;
+                    responseDTO.StatusMessage = string.Format("Role id '{0}' not found in our database", userRoleDTO.Id);
+                }
+                else
+                {
+                    if (!_agDbContext.UserRoles.Any(x => x.Name == userRoleDTO.Name && x.Id != userRoleDTO.Id))
+                    {
+                        role.Name = userRoleDTO.Name;
+                        role.Active = userRoleDTO.Active;
+                        role.UpdatedOn = DateTime.Now;
+                        _agDbContext.UserRoles.Update(role);
+                        int result = _agDbContext.SaveChanges();
+
+                        if (result > 0)
+                        {
+                            responseDTO.Status = true;
+                            responseDTO.StatusCode = (int)System.Net.HttpStatusCode.OK;
+                            responseDTO.StatusMessage = string.Format("Role Updated successfully", userRoleDTO.Name);
+                        }
+                        else
+                        {
+                            responseDTO.StatusCode = (int)System.Net.HttpStatusCode.OK;
+                            responseDTO.Status = false;
+                            responseDTO.StatusMessage = string.Format("Something went wrong. Role '{0}' not updated", userRoleDTO.Name);
+                        }
+                    }
+                    else
+                    {
+                        responseDTO.StatusCode = (int)System.Net.HttpStatusCode.OK;
+                        responseDTO.Status = false;
+                        responseDTO.StatusMessage = string.Format("Role '{0}' already exists", userRoleDTO.Name);
+                    }
+                }
+
+            }
+            catch (Exception ex)
+            {
+                responseDTO.StatusCode = (int)System.Net.HttpStatusCode.InternalServerError;
+                responseDTO.Status = false;
+                responseDTO.StatusMessage = string.Format("An exception occurred while updating user role {0}", ex.Message);
             }
             return responseDTO;
         }

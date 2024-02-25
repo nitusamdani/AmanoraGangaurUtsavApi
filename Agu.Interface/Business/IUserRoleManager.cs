@@ -12,5 +12,6 @@ namespace Agu.Interface.Business
         void AddDefaultUserRole();
         List<UserRoleDTO> GetRoleList();
         ResponseDTO AddUserRole(UserRoleDTO userRoleDTO);
+        ResponseDTO EditUserRole(UserRoleDTO userRoleDTO);
     }
 }

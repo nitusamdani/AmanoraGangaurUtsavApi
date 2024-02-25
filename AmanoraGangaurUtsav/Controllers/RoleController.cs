@@ -31,7 +31,7 @@ namespace AmanoraGangaurUtsav.Controllers
 
         [Route("AddRole")]
         [HttpPost]
-        public IActionResult AddRole(UserRoleViewModel userRoleViewModel)
+        public IActionResult AddRole(UserRoleCreateViewModel userRoleViewModel)
         {
             ResponseDTO responseDTO = new ResponseDTO();
             if (! ModelState.IsValid)
@@ -48,6 +48,29 @@ namespace AmanoraGangaurUtsav.Controllers
             });
 
             
+            return Ok(responseDTO);
+        }
+
+        [Route("UpdateRole")]
+        [HttpPost]
+        public IActionResult UpdateRole(UserRoleEditViewModel userRoleViewModel)
+        {
+            ResponseDTO responseDTO = new ResponseDTO();
+            if (!ModelState.IsValid)
+            {
+                responseDTO.StatusCode = (int)HttpStatusCode.BadRequest;
+                responseDTO.StatusMessage = string.Join(",", ModelState.Values.SelectMany(f => f.Errors).Select(f => f.ErrorMessage));
+                return BadRequest(responseDTO);
+            }
+
+            responseDTO = _userRoleManager.EditUserRole(new UserRoleDTO
+            {
+                Id= userRoleViewModel.Id,
+                Name = userRoleViewModel.Name,
+                Active = userRoleViewModel.Active
+            });
+
+
             return Ok(responseDTO);
         }
     }
